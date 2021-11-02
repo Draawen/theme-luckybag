@@ -313,6 +313,62 @@
           "73ac16ab-4053-4ca9-a80f-d69c22db08f9": {
             "type": "logo_image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/guess-logo_2c3e7bbb-cf03-46d3-bff1-bdbc13f8c2cd.png",
+              "link": "shopify:\/\/collections\/guess"
+            }
+          },
+          "9dd5ca0f-2b92-4929-8ffd-9025a79be978": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Georges-Rech_1a711e09-7139-47d4-a326-c1c95ba4ecd9.png",
+              "link": "shopify:\/\/collections\/georges-rech"
+            }
+          },
+          "227eae35-f0dc-48c6-8589-41a4f5eec3e3": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "e082e6c1-44ef-4633-81bc-bff1375ac7fc": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "f1737b37-0cb9-4409-9096-875bffc5e93c": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "fdd2c15c-90e4-4a47-aa08-06a7d99b50a9": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "f31327bc-56fc-4a2e-84a4-3f2f39b42d4f": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "2e104f6f-e093-4028-bfe7-d21bac95a7fd": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "3d0e24f8-cf37-4e95-b23e-71505cdf46c0": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "02ed3aca-35f1-4380-8b26-5795cd258451": {
+            "type": "logo_image",
+            "settings": {
               "link": ""
             }
           }
@@ -328,7 +384,16 @@
           "e97a82c9-cde9-48e7-a3eb-b05c91eb2c46",
           "5af595aa-96b4-4a6b-857d-87409b749f4c",
           "62188923-3f80-424e-9480-02ba89eb9bfd",
-          "73ac16ab-4053-4ca9-a80f-d69c22db08f9"
+          "73ac16ab-4053-4ca9-a80f-d69c22db08f9",
+          "9dd5ca0f-2b92-4929-8ffd-9025a79be978",
+          "227eae35-f0dc-48c6-8589-41a4f5eec3e3",
+          "e082e6c1-44ef-4633-81bc-bff1375ac7fc",
+          "f1737b37-0cb9-4409-9096-875bffc5e93c",
+          "fdd2c15c-90e4-4a47-aa08-06a7d99b50a9",
+          "f31327bc-56fc-4a2e-84a4-3f2f39b42d4f",
+          "2e104f6f-e093-4028-bfe7-d21bac95a7fd",
+          "3d0e24f8-cf37-4e95-b23e-71505cdf46c0",
+          "02ed3aca-35f1-4380-8b26-5795cd258451"
         ],
         "settings": {
           "title": "",
