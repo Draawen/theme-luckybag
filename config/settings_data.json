@@ -257,25 +257,29 @@
           "e6470ac2-b19d-4fb4-be3a-bfa232fee2eb": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/logo-anekke.png",
+              "link": "shopify:\/\/collections\/anekke"
             }
           },
           "7f81816b-d358-4efc-a795-f469f0366399": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/Logo_galerie_cabaia.png",
+              "link": "shopify:\/\/collections\/cabaia"
             }
           },
           "1f8d8c64-8a96-47e0-9051-727b430edbda": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/david-william-logo_d1c4e9e5-4fb7-4d0a-a955-4a76cefbcb51.png",
+              "link": "shopify:\/\/collections\/david-william"
             }
           },
           "bdeccc36-9df1-478f-a1d8-22b73ab51f0c": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/51u0fxadEjL._AC_UY350.jpg",
+              "link": "shopify:\/\/collections\/davidts"
             }
           },
           "647a42d6-f1df-43f1-a538-1dc9c8cac93f": {
