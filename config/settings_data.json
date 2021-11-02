@@ -292,19 +292,22 @@
           "e97a82c9-cde9-48e7-a3eb-b05c91eb2c46": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/eastpak-logo.png",
+              "link": "shopify:\/\/collections\/eastpak"
             }
           },
           "5af595aa-96b4-4a6b-857d-87409b749f4c": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/flora-and-co-logo_974dc87f-0f6f-42f5-844d-f99a82303540.png",
+              "link": "shopify:\/\/collections\/flora-and-co"
             }
           },
           "62188923-3f80-424e-9480-02ba89eb9bfd": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/francinel-logo_8da04ea9-d7c6-4345-bf1d-16c77b7f609b.png",
+              "link": "shopify:\/\/collections\/francinel"
             }
           },
           "73ac16ab-4053-4ca9-a80f-d69c22db08f9": {
