@@ -407,6 +407,31 @@
               "image": "shopify:\/\/shop_images\/secrid-logo_b7cd7daa-c21f-4dc8-9862-383c5bf84200.png",
               "link": "shopify:\/\/collections\/secrid"
             }
+          },
+          "028c298f-372c-4e48-a2bf-c6c68ac733fb": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/snowball_f159d10d-4c45-4907-add6-bf60f3261dd3.jpg",
+              "link": "shopify:\/\/collections\/snowball"
+            }
+          },
+          "34eaac47-4f4b-47c3-b4c3-4b4560cb21e8": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "4d52c534-9cb2-4c0c-ac22-77260de052d0": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "29f94ebc-36c7-4d79-af2d-bfca561cb4f2": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
           }
         },
         "block_order": [
@@ -433,7 +458,11 @@
           "f45fd0cf-46e4-4d51-8b49-13c622c69859",
           "e27f1387-a923-4820-b3ad-44629d3b0479",
           "68b57f6e-948f-4281-b449-be5b04a852e7",
-          "c61a7e55-9c2d-4799-a350-1311f7d025cf"
+          "c61a7e55-9c2d-4799-a350-1311f7d025cf",
+          "028c298f-372c-4e48-a2bf-c6c68ac733fb",
+          "34eaac47-4f4b-47c3-b4c3-4b4560cb21e8",
+          "4d52c534-9cb2-4c0c-ac22-77260de052d0",
+          "29f94ebc-36c7-4d79-af2d-bfca561cb4f2"
         ],
         "settings": {
           "title": "",
