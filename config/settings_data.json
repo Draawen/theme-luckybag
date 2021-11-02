@@ -154,12 +154,22 @@
               "desktop_logo_height": 50,
               "container_width": 95
             }
+          },
+          "83a7ea4e-9460-4355-9055-19de7892c7cd": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Custom text",
+              "text": "<p>Lundi au Samedi : 9h30-20h30<br\/>(Hors Jours Fériés)<\/p><p><strong>Tel <\/strong>: 01 48 38 36 66<\/p><p><strong>Mail <\/strong>: contact@luckybag.fr<\/p><p><strong>Adresse <\/strong>: 60 Rue Saint Stenay Centre Commercial Avenir<\/p><p>93700 DRANCY<\/p>",
+              "container_width": 25
+            }
           }
         },
         "block_order": [
           "1494301487049",
           "1494292487693",
-          "1494301487048"
+          "1494301487048",
+          "83a7ea4e-9460-4355-9055-19de7892c7cd"
         ],
         "settings": {
           "show_locale_selector": false,
