@@ -279,7 +279,7 @@
     "blog-posts": {
       "type": "blog-posts",
       "settings": {
-        "title": "From the journal",
+        "title": "Nos blogs",
         "blog": "secret-des-sacs",
         "post_limit": 3,
         "blog_show_tags": false,
