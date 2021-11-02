@@ -418,7 +418,8 @@
           "34eaac47-4f4b-47c3-b4c3-4b4560cb21e8": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/tanns-logo.png",
+              "link": "shopify:\/\/collections\/tanns"
             }
           },
           "4d52c534-9cb2-4c0c-ac22-77260de052d0": {
