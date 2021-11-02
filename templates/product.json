@@ -28,6 +28,13 @@
             "text": "Livraison en 24\/48H"
           }
         },
+        "d894ffaa-0172-4ed7-9155-7979fb63fed4": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "checkmark",
+            "text": "Vendeur Maroquinier depuis 1989"
+          }
+        },
         "inventory_status": {
           "type": "inventory_status",
           "settings": {
@@ -74,6 +81,7 @@
         "separator",
         "variant_picker",
         "sales_point",
+        "d894ffaa-0172-4ed7-9155-7979fb63fed4",
         "inventory_status",
         "buy_buttons",
         "description",
