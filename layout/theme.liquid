@@ -29,6 +29,53 @@
   {{ 'theme.css' | asset_url | stylesheet_tag }}
   {%- render 'css-variables' -%}
 
+  
+  <!-- Global Site Tag (gtag.js) - Google AdWords: GOOGLE_CONVERSION_ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-618429905"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'AW-618429905');
+</script>
+
+<script type="text/javascript">
+	{% if template contains 'product' %}
+		gtag('event', 'page_view', {
+		ecomm_prodid: 'shopify_FR_{{ product.id }}_{{ product.variants.first.id }}',
+		ecomm_pagetype: 'product',
+		ecomm_totalvalue: {{ product.price | money_without_currency | replace: ',', '.' }}
+		});
+	{% elsif template contains 'cart' %}
+		gtag('event', 'page_view', {
+		ecomm_prodid: [{% for item in cart.items %}'shopify_FR_{{ item.product.id }}_{{ item.product.variants.first.id }}',{% endfor %}],
+		ecomm_pagetype:  'cart',
+		ecomm_totalvalue: {{cart.total_price | money_without_currency | replace: ',', '.' }}
+		});
+	{% elsif template contains 'search' %}
+		gtag('event', 'page_view', {
+		ecomm_prodid: '',
+		ecomm_pagetype: 'searchresults',
+		ecomm_totalvalue: ''
+		});
+	{% elsif template contains 'index' %}
+		gtag('event', 'page_view', {
+		ecomm_prodid: '',
+		ecomm_pagetype: 'home',
+		ecomm_totalvalue: ''
+		});
+	{% else %}
+		gtag('event', 'page_view', {
+		ecomm_prodid: '',
+		ecomm_pagetype: 'other',
+		ecomm_totalvalue: ''
+
+
+		});
+	{% endif %}
+</script>
+  
   <script>
     document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
 
