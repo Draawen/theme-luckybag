@@ -285,7 +285,8 @@
           "647a42d6-f1df-43f1-a538-1dc9c8cac93f": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/desigual-logo.png",
+              "link": "shopify:\/\/collections\/desigual"
             }
           },
           "e97a82c9-cde9-48e7-a3eb-b05c91eb2c46": {
