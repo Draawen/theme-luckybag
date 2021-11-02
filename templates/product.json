@@ -24,8 +24,8 @@
         "sales_point": {
           "type": "sales_point",
           "settings": {
-            "icon": "globe",
-            "text": "Free worldwide shipping"
+            "icon": "truck",
+            "text": "Livraison en 24\/48H"
           }
         },
         "inventory_status": {
