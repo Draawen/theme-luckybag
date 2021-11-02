@@ -236,6 +236,96 @@
           "hide_homepage": false,
           "image_size": "wide"
         }
+      },
+      "page-marques-template": {
+        "type": "page-marques-template",
+        "blocks": {
+          "8cf9dc3b-5592-409a-940a-f17d2d71b385": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/alpini-logo_ba1ff362-09f5-4c25-9de8-31d9c2252f61.png",
+              "link": "shopify:\/\/collections\/alpini"
+            }
+          },
+          "427278a7-ba3c-4f54-9324-19ccab716595": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "e6470ac2-b19d-4fb4-be3a-bfa232fee2eb": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "7f81816b-d358-4efc-a795-f469f0366399": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "1f8d8c64-8a96-47e0-9051-727b430edbda": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "bdeccc36-9df1-478f-a1d8-22b73ab51f0c": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "647a42d6-f1df-43f1-a538-1dc9c8cac93f": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "e97a82c9-cde9-48e7-a3eb-b05c91eb2c46": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "5af595aa-96b4-4a6b-857d-87409b749f4c": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "62188923-3f80-424e-9480-02ba89eb9bfd": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "73ac16ab-4053-4ca9-a80f-d69c22db08f9": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "8cf9dc3b-5592-409a-940a-f17d2d71b385",
+          "427278a7-ba3c-4f54-9324-19ccab716595",
+          "e6470ac2-b19d-4fb4-be3a-bfa232fee2eb",
+          "7f81816b-d358-4efc-a795-f469f0366399",
+          "1f8d8c64-8a96-47e0-9051-727b430edbda",
+          "bdeccc36-9df1-478f-a1d8-22b73ab51f0c",
+          "647a42d6-f1df-43f1-a538-1dc9c8cac93f",
+          "e97a82c9-cde9-48e7-a3eb-b05c91eb2c46",
+          "5af595aa-96b4-4a6b-857d-87409b749f4c",
+          "62188923-3f80-424e-9480-02ba89eb9bfd",
+          "73ac16ab-4053-4ca9-a80f-d69c22db08f9"
+        ],
+        "settings": {
+          "title": "",
+          "logo_opacity": 76,
+          "divider": false
+        }
       }
     },
     "content_for_index": [
