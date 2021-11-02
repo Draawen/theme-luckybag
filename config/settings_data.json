@@ -334,19 +334,22 @@
           "e082e6c1-44ef-4633-81bc-bff1375ac7fc": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/lacoste-logo_80299997-85d7-4a08-8154-c1ac7d79e14b.png",
+              "link": "shopify:\/\/collections\/lacoste"
             }
           },
           "f1737b37-0cb9-4409-9096-875bffc5e93c": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/1200px-Lancaster_logo.svg_b821fbd7-4268-4038-a27e-96786046e767.png",
+              "link": "shopify:\/\/collections\/lancaster"
             }
           },
           "fdd2c15c-90e4-4a47-aa08-06a7d99b50a9": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/little-marcel-logo_d5af1496-8df7-4322-9d55-da5f9837cb53.png",
+              "link": "shopify:\/\/collections\/little-marcel"
             }
           },
           "f31327bc-56fc-4a2e-84a4-3f2f39b42d4f": {
