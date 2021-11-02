@@ -203,30 +203,33 @@
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
-              "button_link": ""
+              "image": "shopify:\/\/shop_images\/iStock-1000887536.jpg",
+              "title": "Un sac à dos eastpak",
+              "text": "<p>L'incontournable chaque année<\/p>",
+              "button_label": "J'en veux un",
+              "button_link": "shopify:\/\/collections\/eastpak"
             }
           },
           "footer-promotions-1": {
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
-              "button_link": ""
+              "image": "shopify:\/\/shop_images\/554857-istock-874914576.jpg",
+              "title": "Une valise pour votre voyage ?",
+              "text": "<p>Une valise résistante et grandement remplit de souvenir<\/p>",
+              "button_label": "Garder mes souvenirs",
+              "button_link": "shopify:\/\/collections\/valises-voyages"
             }
           },
           "footer-promotions-2": {
             "type": "promotion",
             "settings": {
               "enable_image": true,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
-              "button_link": ""
+              "image": "shopify:\/\/shop_images\/istockphoto-1044799820-612x612.jpg",
+              "title": "Votre argent en sécurité",
+              "text": "<p>Renouvelez votre portefeuille \/ porte-carte<\/p>",
+              "button_label": "Je renouvelle",
+              "button_link": "shopify:\/\/collections\/petite-maroquinerie-homme"
             }
           }
         },
