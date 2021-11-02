@@ -404,7 +404,8 @@
           "c61a7e55-9c2d-4799-a350-1311f7d025cf": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/secrid-logo_b7cd7daa-c21f-4dc8-9862-383c5bf84200.png",
+              "link": "shopify:\/\/collections\/secrid"
             }
           }
         },
