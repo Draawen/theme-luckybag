@@ -131,6 +131,15 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "83a7ea4e-9460-4355-9055-19de7892c7cd": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Custom text",
+              "text": "<p>Lundi au Samedi : 9h30-20h30<br\/>(Hors Jours Fériés)<\/p><p><strong>Tel <\/strong>: 01 48 38 36 66<\/p><p><strong>Mail <\/strong>: contact@luckybag.fr<\/p><p><strong>Adresse <\/strong>: 60 Rue Saint Stenay Centre Commercial Avenir<\/p><p>93700 DRANCY<\/p>",
+              "container_width": 25
+            }
+          },
           "1494301487049": {
             "type": "menu",
             "settings": {
@@ -148,28 +157,22 @@
               "container_width": 33
             }
           },
-          "1494301487048": {
-            "type": "logo_social",
-            "settings": {
-              "desktop_logo_height": 50,
-              "container_width": 95
-            }
-          },
-          "83a7ea4e-9460-4355-9055-19de7892c7cd": {
+          "f3ad36f4-ceeb-4770-9d00-736e7818b694": {
             "type": "custom",
             "settings": {
               "show_footer_title": true,
-              "title": "Custom text",
-              "text": "<p>Lundi au Samedi : 9h30-20h30<br\/>(Hors Jours Fériés)<\/p><p><strong>Tel <\/strong>: 01 48 38 36 66<\/p><p><strong>Mail <\/strong>: contact@luckybag.fr<\/p><p><strong>Adresse <\/strong>: 60 Rue Saint Stenay Centre Commercial Avenir<\/p><p>93700 DRANCY<\/p>",
+              "title": "Qui Sommes-nous ?",
+              "image": "shopify:\/\/shop_images\/luckybag-logo_2.png",
+              "text": "<p>Maroquinier depuis 1989,<br\/>Nous transmettons notre savoir depuis 3 générations.<br\/><strong>Facilitez la Vie, se rendre utile est notre devise.<\/strong><\/p>",
               "container_width": 25
             }
           }
         },
         "block_order": [
+          "83a7ea4e-9460-4355-9055-19de7892c7cd",
           "1494301487049",
           "1494292487693",
-          "1494301487048",
-          "83a7ea4e-9460-4355-9055-19de7892c7cd"
+          "f3ad36f4-ceeb-4770-9d00-736e7818b694"
         ],
         "settings": {
           "show_locale_selector": false,
