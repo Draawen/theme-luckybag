@@ -78,65 +78,9 @@
         "divider": false
       }
     },
-    "promo-grid": {
-      "type": "promo-grid",
-      "blocks": {
-        "promo-0": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
-            "cta_text2": "Shop All",
-            "cta_link2": "",
-            "video_url": "",
-            "width": "50",
-            "height": 800,
-            "text_size": 100,
-            "text_align": "vertical-center horizontal-center",
-            "focal_point": "center",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": false,
-            "framed": true
-          }
-        },
-        "promo-1": {
-          "type": "advanced",
-          "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
-            "cta_text2": "Shop All",
-            "cta_link2": "",
-            "video_url": "",
-            "width": "50",
-            "height": 500,
-            "text_size": 100,
-            "text_align": "vertical-bottom horizontal-center",
-            "focal_point": "80% 50%",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": true,
-            "framed": false
-          }
-        }
-      },
-      "block_order": [
-        "promo-0",
-        "promo-1"
-      ],
-      "settings": {
-        "full_width": true,
-        "gutter_size": 20,
-        "space_above": false,
-        "space_below": false
-      }
-    },
     "featured-collections": {
       "type": "featured-collections",
+      "disabled": true,
       "blocks": {
         "featured-collections-0": {
           "type": "collection",
@@ -186,6 +130,7 @@
     },
     "promo-grid2": {
       "type": "promo-grid",
+      "disabled": true,
       "blocks": {
         "promo2-0": {
           "type": "advanced",
@@ -351,7 +296,6 @@
   "order": [
     "slideshow",
     "rich-text",
-    "promo-grid",
     "featured-collections",
     "promo-grid2",
     "featured-collection",
