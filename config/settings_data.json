@@ -64,6 +64,7 @@
     "cart_type": "drawer",
     "cart_notes_enable": false,
     "cart_terms_conditions_enable": false,
+    "favicon": "shopify:\/\/shop_images\/LB.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
