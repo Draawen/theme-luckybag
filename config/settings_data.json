@@ -355,22 +355,52 @@
           "f31327bc-56fc-4a2e-84a4-3f2f39b42d4f": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/liu-jo-logo_8a77dda0-add3-47f2-938f-0aec05ae4139.png",
+              "link": "shopify:\/\/collections\/liu-jo"
             }
           },
           "2e104f6f-e093-4028-bfe7-d21bac95a7fd": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/luckybag-logo_2.png",
+              "link": "shopify:\/\/collections\/lucky-bag™"
             }
           },
           "3d0e24f8-cf37-4e95-b23e-71505cdf46c0": {
             "type": "logo_image",
             "settings": {
-              "link": ""
+              "image": "shopify:\/\/shop_images\/mia-and-joy-logo.jpg",
+              "link": "shopify:\/\/collections\/mia-joy"
             }
           },
           "02ed3aca-35f1-4380-8b26-5795cd258451": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1200px-Montblanc_logo.svg_1d216b67-59a3-47fd-a764-402d9f911ce5.png",
+              "link": "shopify:\/\/collections\/mont-blanc"
+            }
+          },
+          "f45fd0cf-46e4-4d51-8b49-13c622c69859": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ogon-designs-logo_80d74acc-c5ce-4254-aeb6-7bef5830a00a.png",
+              "link": "shopify:\/\/collections\/ogon-designs"
+            }
+          },
+          "e27f1387-a923-4820-b3ad-44629d3b0479": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Sabrina_670133ba-9208-4022-8d53-7fb539fb27ef.png",
+              "link": "shopify:\/\/collections\/sabrina-paris"
+            }
+          },
+          "68b57f6e-948f-4281-b449-be5b04a852e7": {
+            "type": "logo_image",
+            "settings": {
+              "link": ""
+            }
+          },
+          "c61a7e55-9c2d-4799-a350-1311f7d025cf": {
             "type": "logo_image",
             "settings": {
               "link": ""
@@ -397,7 +427,11 @@
           "f31327bc-56fc-4a2e-84a4-3f2f39b42d4f",
           "2e104f6f-e093-4028-bfe7-d21bac95a7fd",
           "3d0e24f8-cf37-4e95-b23e-71505cdf46c0",
-          "02ed3aca-35f1-4380-8b26-5795cd258451"
+          "02ed3aca-35f1-4380-8b26-5795cd258451",
+          "f45fd0cf-46e4-4d51-8b49-13c622c69859",
+          "e27f1387-a923-4820-b3ad-44629d3b0479",
+          "68b57f6e-948f-4281-b449-be5b04a852e7",
+          "c61a7e55-9c2d-4799-a350-1311f7d025cf"
         ],
         "settings": {
           "title": "",
