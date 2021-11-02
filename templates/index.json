@@ -302,6 +302,50 @@
         "background_image": "shopify:\/\/shop_images\/luckybag-map.png",
         "background_image_position": "center center"
       }
+    },
+    "1635889571589820e3": {
+      "type": "testimonials",
+      "blocks": {
+        "1635889571589820e3-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Commande très rapide Reçu du jour au lendemain Beau produit a voir dans le temps.<\/p>",
+            "author": "Aurore B.",
+            "author_info": "France"
+          }
+        },
+        "1635889571589820e3-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Super valise, grande et conforme à mes attentes, elle est vraiment extra !!!<\/p>",
+            "author": "Marianne L.",
+            "author_info": "France"
+          }
+        },
+        "1635889571589820e3-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Site Sérieux, déjà acheté en magasin. Leur livraison a été aussi rapide en 2 jours seulement.<\/p>",
+            "author": "Kevin C.",
+            "author_info": "France"
+          }
+        }
+      },
+      "block_order": [
+        "1635889571589820e3-0",
+        "1635889571589820e3-1",
+        "1635889571589820e3-2"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "align_text": "center",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
     }
   },
   "order": [
@@ -313,6 +357,7 @@
     "featured-collection",
     "background-image-text",
     "blog-posts",
-    "map"
+    "map",
+    "1635889571589820e3"
   ]
 }
