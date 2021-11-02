@@ -75,11 +75,12 @@
       "header": {
         "type": "header",
         "blocks": {
-          "1524770014057": {
-            "type": "logo",
+          "1524770296206": {
+            "type": "announcement",
             "settings": {
-              "desktop_logo_width": 140,
-              "mobile_logo_width": 110
+              "text": "Hassle-free returns",
+              "link_text": "30-day postage paid returns",
+              "link": ""
             }
           },
           "1524770292306": {
@@ -90,24 +91,24 @@
               "link": ""
             }
           },
-          "1524770296206": {
-            "type": "announcement",
+          "1524770014057": {
+            "type": "logo",
             "settings": {
-              "text": "Hassle-free returns",
-              "link_text": "30-day postage paid returns",
-              "link": ""
+              "logo": "shopify:\/\/shop_images\/luckybag-logo_2.png",
+              "desktop_logo_width": 240,
+              "mobile_logo_width": 110
             }
           }
         },
         "block_order": [
-          "1524770014057",
+          "1524770296206",
           "1524770292306",
-          "1524770296206"
+          "1524770014057"
         ],
         "settings": {
           "main_menu_link_list": "main-menu",
           "mega_menu_images": true,
-          "main_menu_alignment": "center-split",
+          "main_menu_alignment": "center",
           "header_style": "sticky",
           "sticky_index": false,
           "sticky_collection": false,
