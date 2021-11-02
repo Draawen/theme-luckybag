@@ -114,7 +114,7 @@
           "sticky_collection": false,
           "announcement_compact": true,
           "announcement_above_header": false,
-          "toolbar_menu": "main-menu",
+          "toolbar_menu": "",
           "toolbar_social": false,
           "show_locale_selector": false,
           "show_currency_selector": true,
