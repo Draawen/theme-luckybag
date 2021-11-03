@@ -39,11 +39,30 @@
             "overlay_opacity": 0,
             "focal_point": "top center"
           }
+        },
+        "ed45e1ab-ae80-42ec-8e23-992f0813870a": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/lacoste",
+            "link_text": "Nouveauté",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#111111",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/Lacoste-nouveaute-janvier_fe68e446-849e-41a4-be9e-a7160c76098f.png",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
         }
       },
       "block_order": [
         "slideshow-0",
-        "slideshow-1"
+        "slideshow-1",
+        "ed45e1ab-ae80-42ec-8e23-992f0813870a"
       ],
       "settings": {
         "section_height": "650px",
