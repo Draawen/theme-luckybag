@@ -317,7 +317,7 @@
       "quantity": "Quantité",
       "add_to_cart": "Ajouter au panier",
       "preorder": "Pré-commander",
-      "include_taxes": "Taxes incluses.",
+      "include_taxes": "Taxes incluses",
       "shipping_policy_html": "<a href='{{ link }}'>Frais d'expédition<\/a> calculés lors du passage à la caisse.",
       "will_not_ship_until": "Sera expédié après {{ date }}",
       "will_be_in_stock_after": "Sera en stock à compter de {{ date }}",
