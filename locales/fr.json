@@ -309,8 +309,8 @@
       "description": "Description",
       "in_stock_label": "En stock",
       "stock_label": {
-        "one": "",
-        "other": ""
+        "one": "{{ count }} en stock",
+        "other": "en stock"
       },
       "sold_out": "Épuisé",
       "unavailable": "Non disponible",
