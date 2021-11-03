@@ -49,6 +49,12 @@
             "text": "Vendeur Maroquinier depuis 1989"
           }
         },
+        "55b7098d-07de-441e-a5df-b281578b5924": {
+          "type": "trust_badge",
+          "settings": {
+            "trust_image": "shopify:\/\/shop_images\/toussaint2021-product.jpg"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -57,6 +63,7 @@
         },
         "tab": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Shipping information",
             "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
@@ -86,6 +93,7 @@
         "buy_buttons",
         "sales_point",
         "d894ffaa-0172-4ed7-9155-7979fb63fed4",
+        "55b7098d-07de-441e-a5df-b281578b5924",
         "description",
         "tab",
         "contact",
