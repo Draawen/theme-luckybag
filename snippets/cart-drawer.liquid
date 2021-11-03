@@ -72,7 +72,7 @@
         <center><p style="color:#279c27;font-size: 14px;
           font-weight: bold;" class="ajaxcart__note">
           <i class="fa fa-check-circle" aria-hidden="true"></i>
-          {% if cart.total_price >= 5000 && cart.items.tags contains "valise" %}
+          {% if cart.total_price >= 5000 & cart.items contains "valise" %}
           Livraison Gratuite
           {% else %}
           Livraison en 24/48H
