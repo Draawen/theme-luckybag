@@ -1,5 +1,5 @@
 (function () {
-  if (window.location.href.indexOf("products") < -1) {
+  if (window.location.href.indexOf("products") < 0) {
       return;
     }
   const second = 1000,
