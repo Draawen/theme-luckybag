@@ -120,7 +120,7 @@
       "discounts": "Réductions",
       "shipping_at_checkout": "",
       "update": "Mettre à jour",
-      "checkout": "PAIEMENT",
+      "checkout": "Commander",
       "empty": "Votre panier est vide.",
       "continue_browsing_html": "<a href='{{ url }}'>Retourner au magasinage<\/a>.",
       "close_cart": "Fermer le panier",
