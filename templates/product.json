@@ -37,6 +37,7 @@
         },
         "sales_point": {
           "type": "sales_point",
+          "disabled": true,
           "settings": {
             "icon": "truck",
             "text": "Livraison en 24\/48H"
