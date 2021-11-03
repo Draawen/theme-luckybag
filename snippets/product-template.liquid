@@ -194,6 +194,21 @@
                         </span>
                       {%- endif -%}
 
+                      <!--             Free Shipping Over 50€ -->
+                      <p style="margin:0px;
+                                font-size: 14px;">
+                        {% if product.tags contains "valise" %}
+                        <strong> Livraison en 24h/72H à domicile</strong>
+                        {% elsif product.price > 4999 %}
+                        <strong> + Livraison GRATUITE</strong>
+                        {% else %}
+                        <strong> Livraison en 24h/72H à domicile</strong>
+                        {% endif %}
+                        <!--               <i class="fa fa-truck" aria-hidden="true"></i> -->
+                        <img style="max-height:14px;" class="lazyload" data-src="https://cdn.shopify.com/s/files/1/0417/0406/3138/files/laposte.png?v=1602337806">
+                      </p>
+                      <!--             End FreeShipping -->
+                      
                       <div
                         data-unit-price-wrapper
                         class="product__unit-price product__unit-price--spacing {% unless current_variant.unit_price_measurement %} hide{% endunless %}">
