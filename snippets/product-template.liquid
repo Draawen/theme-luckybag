@@ -360,7 +360,19 @@
                       </div>
                     </div>
                   {%- when 'custom' -%}
-               <!--TIMER BEGIN andrew.freehelp@gmail.com-->
+                    <div class="product-block" {{ block.shopify_attributes }}>
+                      {{ block.settings.code }}
+                    </div>
+                {%- endcase -%}
+              {%- else -%}
+                <div data-blocks-holder
+                     data-url="{{ product.url | within: collection }}"
+                     data-template="{{ product.template_suffix }}">
+                  <div class="placeholder-content" style="min-height: 86px;"></div>
+                </div>
+              {%- endfor -%}
+            </div>
+             <!--TIMER BEGIN andrew.freehelp@gmail.com-->
     <style>
       @media screen and (min-width: 601px) {
         div.time_box {
@@ -396,18 +408,6 @@
 
     </div>
     <!--TIMER END-->
-                    <div class="product-block" {{ block.shopify_attributes }}>
-                      {{ block.settings.code }}
-                    </div>
-                {%- endcase -%}
-              {%- else -%}
-                <div data-blocks-holder
-                     data-url="{{ product.url | within: collection }}"
-                     data-template="{{ product.template_suffix }}">
-                  <div class="placeholder-content" style="min-height: 86px;"></div>
-                </div>
-              {%- endfor -%}
-            </div>
           </div>
         </div>
 
