@@ -295,10 +295,10 @@
   "products": {
     "general": {
       "color_swatch_trigger": "Couleur",
-      "save_html": "Épargnez {{ saved_amount }}",
+      "save_html": "Économisez {{ saved_amount }}",
       "collection_return": "Retour à {{ collection }}",
       "next_product": "Suivant: {{ title }}",
-      "sale": "Réduit",
+      "sale": "Promo",
       "sale_price": "Prix réduit",
       "regular_price": "Prix régulier",
       "from_text_html": "À partir de {{ price }}",
