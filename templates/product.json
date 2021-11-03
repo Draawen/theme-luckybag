@@ -246,6 +246,57 @@
       "type": "collection-return",
       "settings": {
       }
+    },
+    "16359321864efc533b": {
+      "type": "text-columns",
+      "blocks": {
+        "16359321864efc533b-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3.png",
+            "image_width": 80,
+            "title": "SATISFAIT OU REMBOURSÉ",
+            "text": "<p>Vous avez 30 jours dès réception du colis pour retourner l'article si le produit ne vous convient pas. Visitez notre <a href=\"https:\/\/www.luckybag.fr\/pages\/faq\">FAQ<\/a>, pour toute question, contactez notre <a href=\"https:\/\/www.luckybag.fr\/pages\/contactez-nous\"><strong>service client ici<\/strong><\/a><\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16359321864efc533b-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Suivi_Colis.png",
+            "image_width": 80,
+            "title": "LIVRAISON AVEC SUIVI DEPUIS LA FRANCE",
+            "text": "<p>Pour suivre votre colis vous aurez un numéro de suivi sur votre mail d'expédition de commande.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16359321864efc533b-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4.png",
+            "image_width": 80,
+            "title": "PAIEMENT SÉCURISÉ",
+            "text": "<p>Nous utilisons Stripe et Paypal pour effectuer les transactions afin d'avoir une sécurité maximale.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16359321864efc533b-0",
+        "16359321864efc533b-1",
+        "16359321864efc533b-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -257,6 +308,7 @@
     "163593136235e1b692",
     "product-recommendations",
     "recently-viewed",
-    "collection-return"
+    "collection-return",
+    "16359321864efc533b"
   ]
 }
