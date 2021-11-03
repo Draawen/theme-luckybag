@@ -52,6 +52,7 @@
         },
         "55b7098d-07de-441e-a5df-b281578b5924": {
           "type": "trust_badge",
+          "disabled": true,
           "settings": {
             "trust_image": "shopify:\/\/shop_images\/toussaint2021-product.jpg"
           }
