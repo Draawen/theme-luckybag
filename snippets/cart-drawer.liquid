@@ -11,6 +11,23 @@
           </button>
         </div>
       </div>
+      <img style="padding: 0px !important;"  class="appear-animation appear-delay-1 img-checkout lazyload" style="padding: 0px 60px;"
+           data-src="https://cdn.shopify.com/s/files/1/0417/0406/3138/files/toussaint2021-cart.jpg?v=1635279099">
+
+      <!--TIMER BEGIN-->
+      <div class="appear-animation appear-delay-1" align="center" style="background-color: #f8f8f8;
+                                                                         padding: 7px;">
+        <center style="font-size: 14px; color: #000000;font-weight: bold;">
+          Votre panier est réservé<br>pendant
+          <script src="{{ 'timer.js' | asset_url }}">
+            </font>
+          </script>
+          minutes !
+        </center>
+
+      </div>
+      <!--TIMER END-->
+
     </div>
 
     <div class="drawer__inner">
@@ -69,23 +86,24 @@
           <button type="submit" name="checkout" data-terms-required="{{ settings.cart_terms_conditions_enable }}" class="btn cart__checkout">
             {{ 'cart.general.checkout' | t }}
           </button>
-          <img style="padding: 0px !important;"  class="appear-animation appear-delay-1 img-checkout lazyload" style="padding: 0px 60px;"
-               data-src="https://cdn.shopify.com/s/files/1/0417/0406/3138/files/toussaint2021-cart.jpg?v=1635279099">
-
-          <!--TIMER BEGIN-->
-          <div class="appear-animation appear-delay-1" align="center" style="background-color: #f8f8f8;
-                                                                             padding: 7px;">
-            <center style="font-size: 14px; color: #000000;font-weight: bold;">
-              Votre panier est réservé<br>pendant
-              <script src="{{ 'timer.js' | asset_url }}">
-                </font>
-              </script>
-              minutes !
+          <!-- DEBUT Paiements Sécurisés -->
+          <div align="center">
+            <center style="font-size: 16px; color: #8c8c8c;padding-top: 10px;">
+              30 jours satisfait ou remboursé
             </center>
-
+            <div oncontextmenu="return false;" class="text-center">
+              <div style="display: none;"
+                   class="checkout_icon_title">
+                <span style="padding: 0px 10px;
+                             background: white;
+                             position: relative;
+                             color: black;">
+                </span>
+              </div>
+              <img  class="img-checkout" style="padding: 0px 60px;" src="https://cdn.shopify.com/s/files/1/0417/0406/3138/files/new-secure-badge.svg?v=1597654458">
+            </div>
           </div>
-          <!--TIMER END-->
-
+          <!-- END Paiements Sécurisés -->
           {% if additional_checkout_buttons and settings.cart_additional_buttons %}
           <div class="additional-checkout-buttons additional-checkout-buttons--vertical">{{ content_for_additional_checkout_buttons }}</div>
           {% endif %}
