@@ -374,7 +374,42 @@
             </div>
           </div>
         </div>
+ <!--TIMER BEGIN andrew.freehelp@gmail.com-->
+    <style>
+      @media screen and (min-width: 601px) {
+        div.time_box {
+          font-size: 25px;
+        }
+      }
 
+      @media screen and (max-width: 600px) {
+        div.time_box {
+          font-size: 20px;
+        }
+      }
+    </style>
+    <div id="timer-display" align="center">
+
+      <center style="font-size: 30px; color: #000000;">
+
+        <h5 style="color: black; 
+                   background-blend-mode: multiply,multiply;
+                   font-size: 20px;
+                   ">
+                <div id="countdown" style="display:block;">
+                  Colis expédié aujourd'hui !
+          <ul style="margin: unset;">
+<!--             <li class="timer-container"><span class="timer-content" id="days"></span><p class="timer-text">Jours</p></li> -->
+            <li class="timer-container"><span class="timer-content" id="hours"></span><p class="timer-text">Heures</p></li>
+            <li class="timer-container"><span class="timer-content" id="minutes"></span><p class="timer-text">Minutes</p></li>
+            <li class="timer-container"><span class="timer-content" id="seconds"></span><p class="timer-text">Secondes</p></li>
+          </ul>
+        </div>
+        </h5>
+      </center>
+
+    </div>
+    <!--TIMER END-->
         {%- unless image_position == 'left' -%}
           <div class="grid__item {{ product_image_width }} product-single__sticky">
             {%- render 'product-images',
