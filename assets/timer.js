@@ -1,4 +1,7 @@
 (function () {
+  if (window.location.href.indexOf("product") > -1) {
+      return;
+    }
   const second = 1000,
         minute = second * 60,
         hour = minute * 60,
