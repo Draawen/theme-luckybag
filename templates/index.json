@@ -219,6 +219,58 @@
         "color_background": "#f9f9f9",
         "color_text": "#1c1d1d"
       }
+    },
+    "1635933505ede00c9d": {
+      "type": "logo-list",
+      "blocks": {
+        "1635933505ede00c9d-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1200px-Lancaster_logo.svg_b821fbd7-4268-4038-a27e-96786046e767.png",
+            "link": "https:\/\/www.luckybag.fr\/pages\/marques"
+          }
+        },
+        "1635933505ede00c9d-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lacoste-logo_80299997-85d7-4a08-8154-c1ac7d79e14b.png",
+            "link": "https:\/\/www.luckybag.fr\/pages\/marques"
+          }
+        },
+        "1635933505ede00c9d-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-desigual_ed641f58-bd5d-4328-98fa-b3f94fb12df5.png",
+            "link": "https:\/\/www.luckybag.fr\/pages\/marques"
+          }
+        },
+        "1635933505ede00c9d-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eastpak-logo.png",
+            "link": "https:\/\/www.luckybag.fr\/pages\/marques"
+          }
+        },
+        "77518fed-cb92-4c4e-9ed1-2e81e60a46cc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/guess-logo_2c3e7bbb-cf03-46d3-bff1-bdbc13f8c2cd.png",
+            "link": "https:\/\/www.luckybag.fr\/pages\/marques"
+          }
+        }
+      },
+      "block_order": [
+        "1635933505ede00c9d-0",
+        "1635933505ede00c9d-1",
+        "1635933505ede00c9d-2",
+        "1635933505ede00c9d-3",
+        "77518fed-cb92-4c4e-9ed1-2e81e60a46cc"
+      ],
+      "settings": {
+        "title": "Toutes nos marques",
+        "logo_opacity": 100,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -227,6 +279,7 @@
     "promo-grid2",
     "blog-posts",
     "map",
-    "1635889571589820e3"
+    "1635889571589820e3",
+    "1635933505ede00c9d"
   ]
 }
