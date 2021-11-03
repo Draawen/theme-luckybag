@@ -186,6 +186,48 @@
         "color_text": "#1c1d1d"
       }
     },
+    "163593136235e1b692": {
+      "type": "faq",
+      "blocks": {
+        "163593136235e1b692-0": {
+          "type": "question",
+          "settings": {
+            "title": "📧 Comment puis-je vous contacter ?",
+            "text": "<p>Nous serons plus qu'heureux de pouvoir répondre à vos questions<br\/>Vous pouvez nous contacter via l'adresse<br\/>Email : <strong>contact@luckybag.fr<\/strong><br\/>ou par<br\/>Téléphone au <strong>01 48 38 36 66<\/strong><\/p>"
+          }
+        },
+        "163593136235e1b692-1": {
+          "type": "question",
+          "settings": {
+            "title": "🏪 Puis-je récupérer en magasin ?",
+            "text": "<p>Oui cela est possible de faire un retrait en magasin gratuitement à l'adresse suivante : <br\/><a href=\"https:\/\/g.page\/LuckyBag-Maroquinerie-1989?share\" target=\"_blank\" title=\"https:\/\/g.page\/LuckyBag-Maroquinerie-1989?share\"><br\/><strong>60 Rue Saint Stenay<br\/>Centre Commercial Avenir<\/strong><\/a><br\/><a href=\"https:\/\/g.page\/LuckyBag-Maroquinerie-1989?share\" target=\"_blank\" title=\"https:\/\/g.page\/LuckyBag-Maroquinerie-1989?share\"><strong>93700 DRANCY<\/strong><\/a><\/p>"
+          }
+        },
+        "d8c61f3f-dd41-4150-a82d-d441a6d57376": {
+          "type": "question",
+          "settings": {
+            "title": "😕 Que faire si je ne suis pas satisfait de ma commande ou s'il y a une erreur ?",
+            "text": "<p>Chez-nous, vous êtes <strong>satisfaits ou remboursés<\/strong> ! Vous disposez d'un délai 30 jours pour nous retourner un produit qui ne vous convient pas. Et s'il y a eu une erreur dans votre commande, nous nous engageons à vous la <strong>rembourser<\/strong> ou la <strong>remplacer<\/strong> !<br\/>Contactez nous par mail:<br\/><strong>contact@luckybag.fr<br\/><\/strong>ou par<br\/><strong>Téléphone au 01 48 38 36 66<\/strong><\/p>"
+          }
+        },
+        "9e686bc4-6f4a-42d8-87f6-bd2229f0ff90": {
+          "type": "question",
+          "settings": {
+            "title": "📦 Comment puis-je suivre ma commande ?",
+            "text": "<p>Vous recevrez par mail un numéro de suivi Colissimo pour suivre votre colis.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163593136235e1b692-0",
+        "163593136235e1b692-1",
+        "d8c61f3f-dd41-4150-a82d-d441a6d57376",
+        "9e686bc4-6f4a-42d8-87f6-bd2229f0ff90"
+      ],
+      "settings": {
+        "title": "FAQs"
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -212,6 +254,7 @@
     "text-and-image",
     "text-and-image2",
     "testimonials",
+    "163593136235e1b692",
     "product-recommendations",
     "recently-viewed",
     "collection-return"
