@@ -61,7 +61,12 @@
           <div class="ajaxcart__subtotal">{{ 'cart.general.subtotal' | t }}</div>
           <div data-subtotal>{{ cart.total_price | money }}</div>
         </div>
-
+        <img src="{{ 'alma_logo.svg' | asset_url }}" style="height: 24px; vertical-align: middle; margin-right: 5px"/>
+        {% if almaApplied %}
+        <strong>3x Paiements de {{almaPrice}}/mois</strong>
+        {% else %}
+        <strong>Payez en 3 fois sans frais à partir de 150€</strong>
+        {% endif %}
         <div class="cart__item-row text-center">
           <small>
             {{ 'cart.general.shipping_at_checkout' | t }}<br />
