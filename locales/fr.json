@@ -310,7 +310,7 @@
       "in_stock_label": "En stock",
       "stock_label": {
         "one": "{{ count }} en stock",
-        "other": "en stock"
+        "other": "{{ count }} en stock"
       },
       "sold_out": "Épuisé",
       "unavailable": "Non disponible",
