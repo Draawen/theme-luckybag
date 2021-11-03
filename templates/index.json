@@ -150,33 +150,6 @@
         "space_below": false
       }
     },
-    "blog-posts": {
-      "type": "blog-posts",
-      "settings": {
-        "title": "Nos blogs",
-        "blog": "secret-des-sacs",
-        "post_limit": 3,
-        "blog_show_tags": false,
-        "blog_show_date": true,
-        "blog_show_comments": false,
-        "blog_show_author": false,
-        "view_all": true,
-        "blog_image_size": "wide",
-        "divider": false
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Notre magasin",
-        "address": "<p>60 Rue Saint Stenay - Centre Commercial Avenir93700 DRANCY France<\/p><p>Lun -  Sam 9:30 - 20:30<br\/>Dim - Fermé<\/p>",
-        "map_address": "Centre Commercial Avenir, 60 Rue Saint-Stenay, 93700 Drancy",
-        "api_key": "",
-        "show_button": true,
-        "background_image": "shopify:\/\/shop_images\/luckybag-map.png",
-        "background_image_position": "center center"
-      }
-    },
     "1635889571589820e3": {
       "type": "testimonials",
       "blocks": {
@@ -292,16 +265,43 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "title": "Nos blogs",
+        "blog": "secret-des-sacs",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "blog_image_size": "wide",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Notre magasin",
+        "address": "<p>60 Rue Saint Stenay - Centre Commercial Avenir93700 DRANCY France<\/p><p>Lun -  Sam 9:30 - 20:30<br\/>Dim - Fermé<\/p>",
+        "map_address": "Centre Commercial Avenir, 60 Rue Saint-Stenay, 93700 Drancy",
+        "api_key": "",
+        "show_button": true,
+        "background_image": "shopify:\/\/shop_images\/luckybag-map.png",
+        "background_image_position": "center center"
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collection",
     "promo-grid2",
-    "blog-posts",
-    "map",
     "1635889571589820e3",
     "1635933505ede00c9d",
-    "163593364717cf0507"
+    "163593364717cf0507",
+    "blog-posts",
+    "map"
   ]
 }
