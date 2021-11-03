@@ -342,7 +342,6 @@
               <div class="product-block" {{ block.shopify_attributes }}>
                 {%- render 'social-sharing', share_title: product.title, share_permalink: product.url, share_image: product -%}
               </div>
-              <img data-src="https://cdn.shopify.com/s/files/1/0417/0406/3138/files/toussaint2021-product.jpg?v=1635279099" class="lazyload">
               {%- when 'trust_badge' -%}
               <div class="product-block" {{ block.shopify_attributes }}>
                 <div class="aos-animate" style="max-width: {{ block.settings.trust_image.width }}px; margin: 0 auto;">
@@ -365,6 +364,8 @@
                 {{ block.settings.code }}
               </div>
               {%- endcase -%}
+              <img data-src="https://cdn.shopify.com/s/files/1/0417/0406/3138/files/toussaint2021-product.jpg?v=1635279099" class="lazyload">
+
               {%- else -%}
               <div data-blocks-holder
                    data-url="{{ product.url | within: collection }}"
