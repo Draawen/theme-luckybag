@@ -65,33 +65,6 @@
         "divider": false
       }
     },
-    "rich-text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "promo-grid2": {
       "type": "promo-grid",
       "blocks": {
@@ -114,20 +87,21 @@
         "promo2-0": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
-            "cta_text2": "Shop All",
+            "subheading": "Bonne Affaires",
+            "heading": "Produits en promotion",
+            "textarea": "Achetez les produits en promotions",
+            "cta_text1": "Profiter des promos",
+            "cta_link1": "shopify:\/\/collections\/promo",
+            "cta_text2": "",
             "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/small-bell-ornament-on-tree.jpg",
             "video_url": "",
             "width": "100",
-            "height": 720,
+            "height": 380,
             "text_size": 120,
             "text_align": "vertical-center horizontal-center",
             "focal_point": "80% 50%",
-            "color_accent": "rgba(0,0,0,0)",
+            "color_accent": "#e03131",
             "boxed": false,
             "framed": false
           }
@@ -135,10 +109,10 @@
         "promo2-1": {
           "type": "sale_collection",
           "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
+            "sale_collection": "lancaster",
+            "top_text": "Sacs",
+            "middle_text": "Lancaster",
+            "bottom_text": "Cadeaux Femmes",
             "width": "50",
             "color_tint": "#000000",
             "color_tint_opacity": 0,
@@ -149,10 +123,10 @@
         "promo2-2": {
           "type": "sale_collection",
           "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
+            "sale_collection": "lacoste",
+            "top_text": "Portefeuille \/ Sacoche",
+            "middle_text": "Lacoste",
+            "bottom_text": "Cadeaux Hommes",
             "width": "50",
             "color_tint": "#000000",
             "color_tint_opacity": 0,
@@ -173,21 +147,6 @@
         "gutter_size": 20,
         "space_above": false,
         "space_below": false
-      }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "shopify:\/\/collections\/all",
-        "focal_point": "80% 0",
-        "layout": "left",
-        "height": 750,
-        "framed": false,
-        "parallax": true
       }
     },
     "blog-posts": {
@@ -265,9 +224,7 @@
   "order": [
     "slideshow",
     "featured-collection",
-    "rich-text",
     "promo-grid2",
-    "background-image-text",
     "blog-posts",
     "map",
     "1635889571589820e3"
