@@ -351,5 +351,12 @@
   },
   "date_formats": {
     "month_day_year": "%d %B, %Y"
+  },
+  "shopify": {
+    "checkout": {
+      "stock": {
+        "sold_out_label": "Épuisé"
+      }
+    }
   }
 }
