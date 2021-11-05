@@ -219,6 +219,14 @@
         "divider": false
       }
     },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "Vous allez aussi aimer",
+        "related_count": 5
+      }
+    },
     "testimonials": {
       "type": "testimonials",
       "blocks": {
@@ -263,6 +271,12 @@
         "color_text": "#1c1d1d"
       }
     },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "settings": {
+        "recent_count": 5
+      }
+    },
     "163593136235e1b692": {
       "type": "faq",
       "blocks": {
@@ -305,20 +319,6 @@
         "title": "FAQs"
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "show_product_recommendations": true,
-        "product_recommendations_heading": "Vous allez aussi aimer",
-        "related_count": 5
-      }
-    },
-    "recently-viewed": {
-      "type": "recently-viewed",
-      "settings": {
-        "recent_count": 5
-      }
-    },
     "collection-return": {
       "type": "collection-return",
       "settings": {
@@ -332,10 +332,10 @@
     "text-and-image",
     "text-and-image2",
     "16359321864efc533b",
-    "testimonials",
-    "163593136235e1b692",
     "product-recommendations",
+    "testimonials",
     "recently-viewed",
+    "163593136235e1b692",
     "collection-return"
   ]
 }
